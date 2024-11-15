@@ -1,0 +1,1 @@
+{"name":"Local: problemsolve","url":"e:\\Web Programming\\CSE-3532\\EDGE_JavaScript_C221173\\problemsolve.js","tests":[{"id":1731645873501,"input":"3\n6\n1 1 4 5 1 4\n5\n7 9 2 2 3\n3\n1 2 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Web Programming\\CSE-3532\\EDGE_JavaScript_C221173\\problemsolve.js","group":"local","local":true}
